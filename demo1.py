@@ -12,4 +12,4 @@ else :
     exit()
 rating=float(input("Enter the user's rating: "))
 
-print(u_name, followers, verified, rating)
+print(u_name, followers, verified, rating) 
